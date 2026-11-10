@@ -15,6 +15,9 @@
 <a href="https://www.tiktok.com/@xtremelyrics">
   <img src="https://img.shields.io/badge/TIKTOK-0D0D0D?style=for-the-badge&logo=tiktok&logoColor=FFFFFF" />
 </a>
+<a href="https://wa.me/923063632210">
+  <img src="https://img.shields.io/badge/WHATSAPP-%2B92%20306%203632210-0D0D0D?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
+</a>
 <a href="mailto:hamasahmed155@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
@@ -131,6 +134,9 @@ I'm one message away.
 
 <a href="https://hamas3492.github.io/portfolio/">
   <img src="https://img.shields.io/badge/See_My_Portfolio-00F7FF?style=for-the-badge&labelColor=0D0D0D" />
+</a>
+<a href="https://wa.me/923063632210">
+  <img src="https://img.shields.io/badge/WhatsApp_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D0D0D" />
 </a>
 <a href="mailto:hamasahmed155@gmail.com">
   <img src="https://img.shields.io/badge/Let's_Talk-FF6B00?style=for-the-badge&labelColor=0D0D0D" />
