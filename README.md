@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Hamas+Ahmed+%F0%9F%91%8B;Creative+Video+Editor+%F0%9F%8E%AC;Storyteller+with+a+Timeline+%F0%9F%8E%9E%EF%B8%8F;Turning+Raw+Clips+into+Emotion" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Hamas+Ahmed+%F0%9F%91%8B;Artificial+Intelligence+Student+%F0%9F%A7%A0;Distribution+%26+Sales+Professional+%F0%9F%93%A6;AI+%26+Digital+Technology+Enthusiast+%E2%9A%A1" alt="Typing SVG" />
 
 <p>
-  <em>I don't just cut clips. I build the moment people feel.</em>
+  <em>BS Artificial Intelligence student who sells, builds with AI, and learns by doing.</em>
 </p>
 
 <a href="https://hamas3492.github.io/portfolio/">
@@ -38,45 +38,67 @@
 
 ```yaml
 name        : Hamas Ahmed
-role        : Creative Video Editor
-location    : Thatta, Sindh, Pakistan
-started     : 2023
-focus       : Emotion-driven edits, lyric videos, cinematic storytelling
-currently   : Building a portfolio that speaks louder than a resume
-philosophy  : "A cut is not a cut. It's a heartbeat."
+role        : Artificial Intelligence Student | Distribution & Sales
+location    : Hyderabad, Sindh, Pakistan
+education   : BS Artificial Intelligence, University of Sindh, Jamshoro (2025 - Present)
+experience  : 3 years running my own distribution business
+building    : Hemix AI, an AI-assisted technology project
+languages   : Sindhi, Urdu, English, Punjabi
+philosophy  : "Learn fast. Talk to people. Build things that work."
 ```
 
-- 🎬 I turn raw footage into stories that hit on the **first 3 seconds**
-- 🎵 Lyric videos, emotional edits, fan edits and reels are my home ground
-- ⚡ Obsessed with **beat-synced cuts**, clean sound design and colour mood
-- 🌱 Learning motion graphics, 3D basics and AI-assisted editing workflows
-- 🤝 Open to freelance edits, collabs and long-term creative projects
-- 📍 Based in Pakistan, working with clients anywhere
+- 🎓 BS Artificial Intelligence student at the **University of Sindh, Jamshoro**
+- 📦 **3 years** of independently managing a distribution business: order booking, delivery, payment collection and customer follow-up
+- 🤝 Strong in communication, persuasion, negotiation and understanding customer mindset
+- 🤖 Use AI tools daily for research, problem-solving, content creation and project development
+- 🚀 Built **[Hemix AI](https://hemix-ai.vercel.app)**, an AI-assisted technology project
+- 🌱 Learning C, JavaScript, React.js, Next.js and Tailwind CSS
+- 🎬 Creative side: CapCut video editing, lyric edits and reels
 
 ---
 
-## 🛠️ Tools I Create With
+## 🛠️ Tech & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-0D0D0D?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" />
-  <img src="https://img.shields.io/badge/After%20Effects-0D0D0D?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" />
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-0D0D0D?style=for-the-badge&logo=davinciresolve&logoColor=FF6B00" />
-  <img src="https://img.shields.io/badge/Adobe%20Audition-0D0D0D?style=for-the-badge&logo=adobeaudition&logoColor=00E4BB" />
-  <img src="https://img.shields.io/badge/Photoshop-0D0D0D?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
-  <img src="https://img.shields.io/badge/CapCut-0D0D0D?style=for-the-badge&logo=capcut&logoColor=FFFFFF" />
-</p>
-<p align="left">
+  <img src="https://img.shields.io/badge/C-0D0D0D?style=for-the-badge&logo=c&logoColor=A8B9CC" />
+  <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-0D0D0D?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-0D0D0D?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
   <img src="https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/GSAP-0D0D0D?style=for-the-badge&logo=greensock&logoColor=88CE02" />
+</p>
+<p align="left">
   <img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/Figma-0D0D0D?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Vercel-0D0D0D?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Generative%20AI-0D0D0D?style=for-the-badge&logo=openai&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/MS%20Office-0D0D0D?style=for-the-badge&logo=microsoftoffice&logoColor=D83B01" />
+  <img src="https://img.shields.io/badge/CapCut-0D0D0D?style=for-the-badge&logo=capcut&logoColor=FFFFFF" />
 </p>
 
 ---
 
-## 🎥 Featured Work
+## 💼 Experience & Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 Distribution Business &mdash; Owner / Manager</h3>
+      <p>3 years of independently running my own distribution business: taking orders, coordinating deliveries, collecting payments and following up with customers.</p>
+      <p><strong>Skills built:</strong> negotiation, persuasion, trust-building, decision-making</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Hemix AI</h3>
+      <p>An AI-assisted technology project built end to end with AI tools for research, planning, troubleshooting and content.</p>
+      <a href="https://hemix-ai.vercel.app">▶ Visit Hemix AI</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎬 Creative Side: Video Edits
 
 <table>
   <tr>
@@ -132,7 +154,7 @@ philosophy  : "A cut is not a cut. It's a heartbeat."
 
 <div align="center">
 
-Got footage that deserves better cuts? A story that needs rhythm?
+Open to internships, AI projects, sales roles and collaborations.
 I'm one message away.
 
 <a href="https://hamas3492.github.io/portfolio/">
@@ -154,6 +176,6 @@ I'm one message away.
 
 <br/>
 
-<sub><em>"Every frame is a decision. Every cut, a heartbeat."</em></sub>
+<sub><em>"Learn fast. Talk to people. Build things that work."</em></sub>
 
 </div>
