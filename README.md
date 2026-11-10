@@ -106,17 +106,17 @@ philosophy  : "A cut is not a cut. It's a heartbeat."
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hamas3492&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-<img height="165" src="https://streak-stats.demolab.com?user=hamas3492&hide_border=true&background=0D0D0D&stroke=00F7FF&ring=00F7FF&fire=FF6B00&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamas3492&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=00F7FF&text_color=C9D1D9&langs_count=8" />
-<img height="165" src="https://github-profile-trophy.vercel.app/?username=hamas3492&theme=algolia&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8" />
+<img width="48%" src="https://streak-stats.demolab.com?user=hamas3492&hide_border=true&background=0D0D0D&stroke=00F7FF&ring=00F7FF&fire=FF6B00&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamas3492&theme=github_dark" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamas3492&bg_color=0D0D0D&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" />
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamas3492&theme=github_dark" />
+
+<br/><br/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamas3492&theme=github_dark" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamas3492&theme=github_dark" />
 
 </div>
 
