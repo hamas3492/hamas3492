@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/hamas3492/hamas3492/main/assets/avatar.jpg" width="170" height="170" style="border-radius:50%;border:4px solid #00F7FF;" alt="Hamas Ahmed" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=00F7FF&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Hamas+Ahmed+%F0%9F%91%8B;AI+Student+%F0%9F%A7%A0+%7C+Sales+%26+Distribution+%F0%9F%93%A6;Video+Editor+%F0%9F%8E%AC+%7C+Creator+%F0%9F%8E%A5;Building+with+AI%2C+Learning+Every+Day+%E2%9A%A1" alt="Typing SVG" />
 
 <p>
